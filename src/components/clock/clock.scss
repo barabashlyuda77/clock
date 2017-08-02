@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+.clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% - 20px);
+    height: 200px;
+    border: 2px solid #1a1a1a;
+    border-radius: 20px;
+    font-size: 500%;
+    color: #bbfd7f;
+    background-color: #1a1a1a;
+    margin: 10px;
+}
