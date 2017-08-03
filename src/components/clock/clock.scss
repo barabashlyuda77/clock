@@ -7,10 +7,12 @@
     justify-content: center;
     width: calc(100% - 20px);
     height: 200px;
-    border: 2px solid #1a1a1a;
+    border: 10px ridge #535353;
     border-radius: 20px;
     font-size: 500%;
     color: #bbfd7f;
     background-color: #1a1a1a;
     margin: 10px;
+    background: linear-gradient(to top left, #1a1a1a, #535353);
+    box-shadow: 0px 2px 10px #1a1a1a;
 }
